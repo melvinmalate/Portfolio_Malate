@@ -1,0 +1,39 @@
+#main-header{
+	background-color:rgba(0, 0, 0, 1);
+	position: center;
+	width:100%;
+	color:white;
+}
+#section2{
+	max-height: 600px;
+	width: 100%;
+	padding: 50px 0;
+	color:  #F0FFFF ;
+	margin-bottom: 10px;
+}
+
+
+body {
+    background-image: url('image/5.jpg');
+}
+div.img {
+     margin: 5px;
+    border: 5px solid #ccc;
+     float: right;
+     width: 180px;
+ }
+
+div.img:hover {
+     border: 1px solid #777;
+ }
+
+div.img img {
+     width: 100%;
+    height: auto;
+ }
+
+div.desc {
+    padding: 15px;
+     text-align: center;
+ }
+ 

@@ -1,0 +1,23 @@
+#main-header{
+	background-color:rgba(0, 0, 0, 1);
+	position: center;
+	width:100%;
+	color:white;
+}
+
+
+body {
+    background-image: url('image/v.jpg');
+}
+
+#home{
+	max-height: 560px;
+	position: center;
+	width: 100%;
+	padding: 60px 0;
+	color:  #F0FFFF ;
+	margin-bottom: 10px;
+	}
+	h2{
+		color: white;
+	}

@@ -1,0 +1,45 @@
+#main-header{
+	background-color:rgba(0, 0, 0, 1);
+	position: center;
+	width:100%;
+}
+
+
+#home{
+	max-height: 560px;
+	position: center;
+	width: 100%;
+	padding: 60px 0;
+	color:  #F0FFFF ;
+	margin-bottom: 10px;
+}
+.page-section{
+	padding:100px 0;
+}
+
+
+
+body {
+    background-image: url('image/i.png');
+}
+
+h1 {
+    color:#E6E6FA;
+}
+img {
+
+    width: 1200px;
+    position: center;
+ }
+
+input
+{
+color:black;
+}
+
+h2 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+
